@@ -1,3 +1,3 @@
 # Nate-Kappler-Code
 
-Hello there! MY name is Nate Kappler and I am soon-to-be software developer that like pancakes and waffles.
+Hello there! My name is Nate Kappler and I am soon-to-be software developer that enjoys playing video games, watching movies and eating mac and cheese.
